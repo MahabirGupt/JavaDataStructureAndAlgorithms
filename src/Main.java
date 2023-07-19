@@ -21,6 +21,7 @@ public class Main {
 //        set the size of the array
         intArray = new int[3];
 
+//        initialise the array
         intArray[0] = 20;
         intArray[1] = 30;
         intArray[2] = 40;
@@ -54,6 +55,43 @@ public class Main {
         System.out.println("Delete an element in a given array");
         singleDimensionArray.deleteValueOfArray(2);
         singleDimensionArray.deleteValueOfArray(10);
+
+//        creating a 2-dimensional array
+//        creating an intArrayay of integers
+        int[][] int2dArray;
+
+//        set the size of the array
+        int2dArray = new int[2][2];
+
+//        initialise the array
+        int2dArray[0][0] = 1;
+        int2dArray[0][1] = 2;
+        int2dArray[1][0] = 3;
+        int2dArray[1][1] = 4;
+
+//        printing out the arrays
+        System.out.println(Arrays.deepToString(int2dArray));
+
+//        creating a 2-dimensional array in one step
+        String str2dArray[][] = {{"a","b"},{"c","d"}};
+        System.out.println(Arrays.deepToString(str2dArray));
+
+        TwoDimensionArray twoDimensionArray = new TwoDimensionArray(3,3);
+        twoDimensionArray.insertValueIntoArray(0,0,10);
+        twoDimensionArray.insertValueIntoArray(0,0,20);
+        twoDimensionArray.insertValueIntoArray(0,1,30);
+
+
+        System.out.println(Arrays.deepToString(twoDimensionArray.twoDarray)); // print out the 2 dimensional array
+
+        twoDimensionArray.insertValueIntoArray(3,0,40);
+
+        twoDimensionArray.accessTwoDimensionalArrays(0,0);
+        twoDimensionArray.accessTwoDimensionalArrays(0,1);
+
+        twoDimensionArray.accessTwoDimensionalArrays(3,0);
+
+
 
 
 
