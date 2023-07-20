@@ -80,6 +80,10 @@ public class Main {
         twoDimensionArray.insertValueIntoArray(0,0,10);
         twoDimensionArray.insertValueIntoArray(0,0,20);
         twoDimensionArray.insertValueIntoArray(0,1,30);
+        twoDimensionArray.insertValueIntoArray(1,0,40);
+        twoDimensionArray.insertValueIntoArray(2,0,50);
+
+
 
 
         System.out.println(Arrays.deepToString(twoDimensionArray.twoDarray)); // print out the 2 dimensional array
@@ -90,6 +94,22 @@ public class Main {
         twoDimensionArray.accessTwoDimensionalArrays(0,1);
 
         twoDimensionArray.accessTwoDimensionalArrays(3,0);
+
+        twoDimensionArray.traverse2Darrays();
+
+        twoDimensionArray.searchElements(50);
+        twoDimensionArray.searchElements(70);
+        twoDimensionArray.searchElements(30);
+        twoDimensionArray.searchElements(80);
+
+        System.out.println(Arrays.deepToString(twoDimensionArray.twoDarray)); // print out the 2 dimensional array
+
+        twoDimensionArray.deleteElement(0,1);
+        twoDimensionArray.deleteElement(4,4);
+
+        System.out.println(Arrays.deepToString(twoDimensionArray.twoDarray)); // print out the 2 dimensional array
+
+
 
 
 
