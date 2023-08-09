@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data_Structure_Algorithm.iml" filepath="$PROJECT_DIR$/Data_Structure_Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GarbageCollection/GarbageCollection.iml" filepath="$PROJECT_DIR$/GarbageCollection/GarbageCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InstanceInitializer/InstanceInitializer.iml" filepath="$PROJECT_DIR$/InstanceInitializer/InstanceInitializer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serializable/Serializable.iml" filepath="$PROJECT_DIR$/Serializable/Serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticInitializer/StaticInitializer.iml" filepath="$PROJECT_DIR$/StaticInitializer/StaticInitializer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariableArguments/VariableArguments.iml" filepath="$PROJECT_DIR$/VariableArguments/VariableArguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threads/threads.iml" filepath="$PROJECT_DIR$/threads/threads.iml" />
     </modules>
   </component>
 </project>
