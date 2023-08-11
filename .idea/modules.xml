@@ -8,8 +8,12 @@
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/GarbageCollection/GarbageCollection.iml" filepath="$PROJECT_DIR$/GarbageCollection/GarbageCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/HasARelationship/HasARelationship.iml" filepath="$PROJECT_DIR$/Inheritance/HasARelationship/HasARelationship.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/InstanceInitializer/InstanceInitializer.iml" filepath="$PROJECT_DIR$/InstanceInitializer/InstanceInitializer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/InstanceOperator/InstanceOperator.iml" filepath="$PROJECT_DIR$/Inheritance/InstanceOperator/InstanceOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Interface/Interface.iml" filepath="$PROJECT_DIR$/Inheritance/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Serializable/Serializable.iml" filepath="$PROJECT_DIR$/Serializable/Serializable.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticInitializer/StaticInitializer.iml" filepath="$PROJECT_DIR$/StaticInitializer/StaticInitializer.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableArguments/VariableArguments.iml" filepath="$PROJECT_DIR$/VariableArguments/VariableArguments.iml" />
