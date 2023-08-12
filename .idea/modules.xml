@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccessModifier/AccessModifier.iml" filepath="$PROJECT_DIR$/AccessModifier/AccessModifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data_Structure_Algorithm.iml" filepath="$PROJECT_DIR$/Data_Structure_Algorithm.iml" />
@@ -13,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/InstanceInitializer/InstanceInitializer.iml" filepath="$PROJECT_DIR$/InstanceInitializer/InstanceInitializer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/InstanceOperator/InstanceOperator.iml" filepath="$PROJECT_DIR$/Inheritance/InstanceOperator/InstanceOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Interface/Interface.iml" filepath="$PROJECT_DIR$/Inheritance/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCertification/JavaCertification.iml" filepath="$PROJECT_DIR$/JavaCertification/JavaCertification.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Serializable/Serializable.iml" filepath="$PROJECT_DIR$/Serializable/Serializable.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticInitializer/StaticInitializer.iml" filepath="$PROJECT_DIR$/StaticInitializer/StaticInitializer.iml" />
